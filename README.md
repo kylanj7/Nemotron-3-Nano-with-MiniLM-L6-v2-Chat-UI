@@ -1,4 +1,4 @@
-# MiniLM-L6-v2 with Nemotron-3-nano RAG
+# Nemotron-3-nano RAG with MiniLM-L6-v2 RAG Chat Interface
 
 Enterprise document question-answering system combining MiniLM-L6-v2 embeddings with Nemotron-3-nano via Ollama. Features a clean Streamlit interface, parallel PDF processing, and incremental indexing.
 
